@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYUSH RAJ</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **GLAUCOMA DETECTION**
+- 🔭 I’m currently working on **2048 Game**
 
 <h3 align="left">Connect with me: araj624529017@gmail.com</h3>
 <p align="left">
